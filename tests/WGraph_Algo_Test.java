@@ -1,4 +1,4 @@
-package tests;
+package ex1.tests;
 
 import ex1.src.*;
 import org.junit.jupiter.api.Test;
