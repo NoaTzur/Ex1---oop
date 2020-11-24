@@ -23,7 +23,7 @@ from a source node to a destination node.
   - `save(file)` - save the current graph to a given file name.
   - `load(String file)` - load graph information from given file name and creates new graph on which this algorithms is performed.
   
-**for more** information about each Class,please visit **[My project javaDoc](https://noatzur.github.io/Ex1-OOP/)**.
+**for more** information about each Class,please visit **[My project javaDoc](https://noatzur.github.io/Ex1---oop/)**.
 
 
   
